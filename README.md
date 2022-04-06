@@ -14,4 +14,4 @@ A typical Merkle Tree looks something like this:
 Let's say we have 4 transactions: "Transaction A", B, C and D. All of them are executed in the same block. Each of these transactions is going to get hashed. Let's call those hashes "Hash A", B, C, and D respectively.
 
 The following would be the resulting Merkle Tree of these transactions:
-![](https://i.imgur.com/wj5TKJ8.jpg)
+![](https://i.imgur.com/QeUy35i.jpg)
